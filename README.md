@@ -28,9 +28,9 @@ No terminal, executar o comando:
 
 Após a instalação, execute a lib com o comando:
 
-'md-url-check /caminho/do/arquivo.md
+'npx md-url-check /caminho/do/arquivo.md
 
-* Exemplo: `md-url-check ./arquivos/texto.md`
+* Exemplo: `npx md-url-check ./arquivos/texto.md`
 
 
 * O caminho do arquivo pode ser relativo ao diretório de onde você está executando a lib, ou absoluto.
