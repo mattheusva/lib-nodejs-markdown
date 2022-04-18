@@ -24,13 +24,14 @@ Com esta lib é possivel:
 
 No terminal, executar o comando:
 
-`npm install md-url-check`
+* `npm install md-url-check`
 
 Após a instalação, execute a lib com o comando:
 
-'npx md-url-check /caminho/do/arquivo.md
+* `npx md-url-check /caminho/do/arquivo.md`
 
 * Exemplo: `npx md-url-check ./arquivos/texto.md`
 
-
 * O caminho do arquivo pode ser relativo ao diretório de onde você está executando a lib, ou absoluto.
+
+* Para avaliar cada link e receber a lista com os links e os status http, executar o comando: `npx md-url-check /caminho/do/arquivo.md validar`
