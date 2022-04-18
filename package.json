@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "lib para encontrar e checar links(URLs) em arquivos markdown",
   "main": "index.js",
+  "bin": {
+    "md-url-check": "./cli.js"
+  },
   "preferGlobal": true,
   "scripts": {
     "test": "jest ./test",
