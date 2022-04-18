@@ -1,6 +1,6 @@
 {
   "name": "md-url-check",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "lib para encontrar e checar links(URLs) em arquivos markdown",
   "main": "index.js",
   "bin": {
