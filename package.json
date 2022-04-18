@@ -1,0 +1,26 @@
+{
+  "name": "md-url-check",
+  "version": "1.0.0",
+  "description": "lib para encontrar e checar links(URLs) em arquivos markdown",
+  "main": "index.js",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "jest ./test",
+    "cli": "node cli.js ./arquivos/texto1.md"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/mattheusva/lib-markdown.git"
+  },
+  "keywords": ["markdown", "URL"],
+  "author": "Matheus Vargas",
+  "license": "ISC",
+  "homepage": "https://github.com/mattheusva/lib-markdown.git#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "node-fetch": "^3.2.3"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
