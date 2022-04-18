@@ -13,7 +13,7 @@ informação que está ali.
 Com esta lib é possivel:
 - analisar arquivo com extensão .md;
 - verificar se há links no arquivo markdown;
-- nao encontrando, emitir msg avisando que não há links;
+- não encontrando, emitir uma mensagem avisando que não há links;
 - caso encontre links, analisar se os links funcionam;
 - retornar lista com os links identificados;
 - retornar com o status http de cada link encontrado;
